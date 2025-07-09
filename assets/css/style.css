@@ -16,9 +16,23 @@ h1, h2 {
     border-radius: 0;
 }
 
+.custom-button {
+    background:#1f7798;
+    border-color: #1f7798;
+}
+
+.custom-button:hover {
+    background-color: #1d6d8a;
+    border-color: #1d6d8a;
+}
+
+/* about section */
+
 #about {
     background: white;
 }
+
+/* Portfolio section */
 
 #portfolio {
     background-color: #dbdcde; /* light grey */
@@ -37,10 +51,13 @@ h1, h2 {
     min-height: 120px;
 }
 
+/* contact section */
+
 #contact {
     background-color: white;
 }
 
+/* Hero Image header background */
 #hero {
     background-color: #dbdcde;
     background-image: url(../images/background.webp);
