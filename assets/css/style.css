@@ -29,3 +29,10 @@ h1, h2 {
 #contact {
     background-color: white;
 }
+
+#hero {
+    background-color: #dbdcde;
+    background-image: url(../images/background.webp);
+    background-size: cover;
+
+}
